@@ -1,1 +1,0 @@
-import{_ as a,c as e,o,U as s}from"./chunks/framework.apcyylA1.js";const b=JSON.parse('{"title":"Introdução","description":"","frontmatter":{},"headers":[],"relativePath":"pt/index.md","filePath":"pt/index.md"}'),t={name:"pt/index.md"},r=s("",18),i=[r];function c(n,u,d,p,l,m){return o(),e("div",null,i)}const q=a(t,[["render",c]]);export{b as __pageData,q as default};
